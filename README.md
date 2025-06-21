@@ -29,7 +29,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** aliabdalla2110@gmail.com
-- **LinkedIn:** (Coming soon!)
+- **LinkedIn:** https://www.linkedin.com/in/ali-abdallah-b5ba792b6/
 
 ## ⚡ Fun Fact
 - I love explaining tech concepts simply — that's why I'm a tutor too! 🎯
