@@ -32,7 +32,7 @@ Here are some key projects demonstrating my skills and interests:
     * Repository containing labs, assignments, and notes from the IBM RAG and Agentic AI Professional Certificate, demonstrating foundational and advanced RAG concepts.
 * **[RAG Icebreaker Gradio ChatBot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot)**
     * An interactive chatbot built with RAG principles and a Gradio interface, designed to facilitate engaging "icebreaker" conversations, showcasing practical RAG application and UI development.
-* **[ChromaDB Employee Records Search](https://github.AliAbdallah21/ChromaDB-Employee-Records-Search)**
+* **[ChromaDB Employee Records Search](https://github.com/AliAbdallah21/ChromaDB-Employee-Records-Search)**
     * An application demonstrating employee record management and search capabilities utilizing ChromaDB.
 
 ## 🤝 Looking to Collaborate On
