@@ -24,7 +24,7 @@
 
 Here are some key projects demonstrating my skills and interests:
 
-* **[Polish Real Estate Price Predictor](https://github.com/AliAbdallah21/MachineLearningProject)**
+* **[Polish Real Estate Price Predictor](https://github.com/AliAbdallah21/Polish-Real-Estate-Predictor)**
     * A machine learning application that predicts real estate prices per square meter in Poland using an XGBoost model, integrating region, property size, time period, market type, and economic indicators.
 * **[Intelligent Food Recommendation System](https://github.com/AliAbdallah21/Food-Recommendation-System)**
     * A comprehensive CLI application showcasing semantic search, advanced filtering, and a Retrieval-Augmented Generation (RAG) chatbot using ChromaDB and OpenAI.
