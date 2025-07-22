@@ -24,11 +24,16 @@
 
 Here are some key projects demonstrating my skills and interests:
 
+* **[Polish Real Estate Price Predictor](https://github.com/AliAbdallah21/MachineLearningProject)**
+    * A machine learning application that predicts real estate prices per square meter in Poland using an XGBoost model, integrating region, property size, time period, market type, and economic indicators.
 * **[Intelligent Food Recommendation System](https://github.com/AliAbdallah21/Food-Recommendation-System)**
     * A comprehensive CLI application showcasing semantic search, advanced filtering, and a Retrieval-Augmented Generation (RAG) chatbot using ChromaDB and OpenAI.
-* **[ChromaDB Employee Records Search](https://github.com/AliAbdallah21/ChromaDB-Employee-Records-Search)**
+* **[IBM RAG & Agentic AI Coursework](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework)**
+    * Repository containing labs, assignments, and notes from the IBM RAG and Agentic AI Professional Certificate, demonstrating foundational and advanced RAG concepts.
+* **[RAG Icebreaker Gradio ChatBot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot)**
+    * An interactive chatbot built with RAG principles and a Gradio interface, designed to facilitate engaging "icebreaker" conversations, showcasing practical RAG application and UI development.
+* **[ChromaDB Employee Records Search](https://github.AliAbdallah21/ChromaDB-Employee-Records-Search)**
     * An application demonstrating employee record management and search capabilities utilizing ChromaDB.
-* *(Add more projects here as you complete them!)*
 
 ## 🤝 Looking to Collaborate On
 
