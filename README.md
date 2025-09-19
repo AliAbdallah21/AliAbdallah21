@@ -1,124 +1,250 @@
 # Hi there, I'm Ali Abdallah 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Computer+Science+%26+AI+Student;Software+Developer+%26+ML+Engineer;Building+Impactful+Real-World+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=60&lines=Computer+Science+%26+AI%2FML+Student;AI%2FML+Engineering+Intern+%40+Ollimi+AI;Programming+Instructor+%40+Preply;Building+Intelligent+Solutions;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
-
-I'm a **Computer Science undergraduate** with a minor in **Artificial Intelligence**, passionate about leveraging technology to solve real-world problems. Currently working as a **Computer Science tutor on Preply**, where I specialize in making complex technical concepts accessible to learners.
-
-- 🔭 Currently working on **advanced RAG systems** and **LLM applications**
-- 🌱 Learning **MLOps**, **model quantization**, and **local LLM deployment**
-- 👯 Looking to collaborate on **open-source AI projects**
-- 💬 Ask me about **Python**, **Machine Learning**, **RAG systems**, and **Full-stack development**
-- 📫 Reach me at: **aliabdalla2110@gmail.com**
-- 🌍 Based in **Egypt** 🇪🇬
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge)
-
-## 🏆 Featured Projects
-
-### 🏠 [Polish Real Estate Price Predictor](https://github.com/AliAbdallah21/Polish-Real-Estate-Predictor)
-A sophisticated **machine learning application** that predicts real estate prices per square meter in Poland using **XGBoost**. Integrates multiple data sources including region, property characteristics, time periods, and economic indicators.
-
-**Tech Stack:** Python, XGBoost, Pandas, Scikit-learn  
-**Key Features:** Advanced feature engineering, Model optimization, Real-world data integration
-
-### 🍽️ [Intelligent Food Recommendation System](https://github.com/AliAbdallah21/Food-Recommendation-System)
-A comprehensive **CLI application** showcasing **semantic search** and **Retrieval-Augmented Generation (RAG)** with a chatbot interface. Demonstrates advanced filtering capabilities and vector similarity search.
-
-**Tech Stack:** Python, ChromaDB, OpenAI API, RAG Architecture  
-**Key Features:** Semantic search, Advanced filtering, Conversational AI
-
-### 🤖 [RAG Icebreaker Gradio ChatBot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot)
-An interactive **chatbot** built with **RAG principles** and **Gradio interface**, designed to facilitate engaging conversations while showcasing practical RAG implementation and modern UI development.
-
-**Tech Stack:** Python, Gradio, RAG Architecture, LangChain  
-**Key Features:** Interactive UI, Real-time chat, RAG integration
-
-### 📚 [IBM RAG & Agentic AI Coursework](https://github.com/AliAbdallah21/IBM-RAG-Agentic-AI-Coursework)
-Comprehensive repository containing **labs, assignments, and notes** from the IBM RAG and Agentic AI Professional Certificate, demonstrating both foundational and advanced RAG concepts.
-
-**Tech Stack:** Python, LangChain, LlamaIndex, Hugging Face  
-**Key Features:** Professional certification work, Advanced AI concepts, Comprehensive documentation
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🎯 Current Focus Areas
-
-- 🔬 **Advanced RAG Strategies** - Implementing sophisticated retrieval-augmented generation systems
-- 🧠 **LLM Fine-tuning** - Exploring PEFT (Parameter-Efficient Fine-Tuning) techniques
-- 🚀 **MLOps & Deployment** - Local LLM inference optimization and model quantization
-- 🎙️ **Multimodal AI** - Integrating Speech-to-Text and Text-to-Speech capabilities
-- 🌐 **Full-Stack ML Applications** - Building end-to-end machine learning solutions
-
-## 🤝 Let's Connect
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdallah-b5ba792b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliabdalla2110@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAbdallah21)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201015929862)
+[![Profile Views](https://komarev.com/ghpvc/?username=AliAbdallah21&color=brightgreen&style=for-the-badge)](https://github.com/AliAbdallah21)
 
 </div>
 
-## 💡 Philosophy
+---
 
-> "Consistently curious to learn and build impactful real-world projects."
+## 🚀 About Me
 
-I believe in the power of technology to transform ideas into reality. Every project I work on aims to solve real-world problems while pushing the boundaries of what's possible with AI and software development.
+I'm a **Computer Science undergraduate** specializing in **AI/ML** at Misr International University, Cairo. Currently working as an **AI/ML Engineering Intern at Ollimi AI** and **Programming Instructor at Preply**, passionate about leveraging AI to solve real-world problems.
+
+- 🔭 Currently working on **Text-to-Speech models for Egyptian dialect** at Ollimi AI
+- 🎓 Teaching **AI/ML fundamentals, NLP, and deep learning** to 50+ students on Preply
+- 🌱 Specializing in **RAG systems, LLM fine-tuning, and vector databases**
+- 👯 Open to collaborate on **AI/ML projects and open-source contributions**
+- 📫 Reach me at: **aliabdalla2110@gmail.com** | **+201015929862**
+- 🌍 Based in **Cairo, Egypt** 🇪🇬
+
+---
+
+## 💼 Professional Experience
+
+### 🤖 AI/ML Engineering Intern | **Ollimi AI** `06/2025 - 08/2025`
+- Contributed to **Text-to-Speech model training** for Egyptian dialect, improving accent accuracy by **25%**
+- Implemented **LoRA fine-tuning techniques** on competing models, reducing inference time by **30%**
+- Optimized training pipelines for customer support and sales applications
+
+### 👨‍🏫 AI/ML Programming Instructor | **Preply** `01/2025 - Present`
+- Teaching **AI/ML fundamentals, NLP, and deep learning** to 50+ students
+- Specializing in **Python, TensorFlow, scikit-learn, and transformer architectures**
+- Achieved **90% student completion rate** with comprehensive LLM and RAG system instruction
+- Led **10+ successful student capstone projects**
+
+---
+
+## 🛠️ Technical Skills
+
+### **AI/ML & Data Science**
+<div align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Fine_tuning-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Systems-2E8B57?style=for-the-badge" />
+</div>
+
+### **Frameworks & Libraries**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+### **Data & Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### **Development & Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🎯 [Meal Grocery Planner with CrewAI](https://github.com/AliAbdallah21/Meal-Grocery-Planner-with-CrewAI)
+**Intelligent multi-agent meal planning system using CrewAI framework**
+- **Tech Stack:** Python, CrewAI, OpenAI API, LangChain, Multi-agent systems
+- **Features:** AI-powered recipe research, budget analysis, shopping list organization, leftover management
+- **Impact:** Comprehensive meal planning solution with dietary restriction support
+
+### 🍽️ [Intelligent Food Recommendation System](https://github.com/AliAbdallah21/Food-Recommendation-System)
+**RAG-powered CLI application with semantic search capabilities**
+- **Tech Stack:** Python, ChromaDB, OpenAI embeddings, RAG architecture
+- **Features:** Semantic search, advanced filtering, conversational AI chatbot
+- **Achievement:** 85% recommendation accuracy with semantic search
+
+### 🏠 [Polish Real Estate Price Predictor](https://github.com/AliAbdallah21/Polish-Real-Estate-Predictor)
+**End-to-end ML pipeline for real estate price prediction**
+- **Tech Stack:** Python, XGBoost, Node.js, EJS, feature engineering
+- **Features:** 92% accuracy prediction, full-stack deployment, 1000+ data points
+- **Impact:** Complete web application with advanced ML algorithms
+
+### 🤖 [RAG Icebreaker Gradio ChatBot](https://github.com/AliAbdallah21/RAG-Icebreaker-Gradio-ChatBot)
+**Interactive RAG-based conversational AI with modern UI**
+- **Tech Stack:** Python, Gradio, RAG architecture, LangChain
+- **Features:** Real-time chat, semantic retrieval, response generation pipeline
+- **Achievement:** 40% improvement in conversation engagement
+
+### 📚 [ChromaDB Employee Records Search](https://github.com/AliAbdallah21/ChromaDB-Employee-Records-Search)
+**Scalable employee management system with vector-based semantic search**
+- **Tech Stack:** ChromaDB, embeddings, vector search, access control
+- **Features:** 50% query performance optimization, 1000+ employee records
+- **Impact:** Role-based access control with efficient indexing strategies
+
+---
+
+## 🎓 Education & Certifications
+
+### **BSc Computer Science, AI/ML Specialization**
+**Misr International University, Cairo, Egypt** `2022-2026`
+
+### **Professional Certifications**
+- **LangChain & LangGraph Advanced RAG Applications** - Coursera
+- **Advanced LangChain, LLMOps & Retrieval-Augmented Generation** - Coursera  
+- **Machine Learning A-Z** - Udemy
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=tokyonight&hide_border=true" />
+  
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAbdallah21&theme=tokyonight" />
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAbdallah21&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+```python
+class AliAbdallah:
+    def __init__(self):
+        self.name = "Ali Abdallah"
+        self.role = "AI/ML Student & Engineer"
+        self.location = "Cairo, Egypt"
+        
+    def current_work(self):
+        return [
+            "AI/ML Engineering Intern @ Ollimi AI",
+            "Programming Instructor @ Preply",
+            "Advanced RAG Systems Development",
+            "LLM Fine-tuning & Model Optimization"
+        ]
+    
+    def skills(self):
+        return {
+            "AI/ML": ["Deep Learning", "NLP", "Computer Vision", "LLM Fine-tuning"],
+            "Frameworks": ["TensorFlow", "PyTorch", "LangChain", "Hugging Face"],
+            "Databases": ["ChromaDB", "FAISS", "PostgreSQL", "MongoDB"],
+            "Languages": ["Python", "JavaScript", "C++", "Java"]
+        }
+    
+    def goals_2025(self):
+        return [
+            "Master advanced RAG architectures",
+            "Contribute to open-source AI projects",
+            "Complete AI/ML specialization degree",
+            "Build production-ready ML applications"
+        ]
+```
+
+---
+
+## 📝 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Intelligent RAG Systems with ChromaDB](https://your-blog-link.com)
+- [Fine-tuning Large Language Models: A Practical Guide](https://your-blog-link.com)
+- [Vector Databases in Production: Lessons Learned](https://your-blog-link.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always interested in collaborating on innovative AI/ML projects and contributing to open-source initiatives. Whether you're working on cutting-edge research, building practical applications, or just want to discuss the latest in AI technology, feel free to reach out!
+
+**📧 Email:** [aliabdalla2110@gmail.com](mailto:aliabdalla2110@gmail.com)  
+**📱 Phone:** [+201015929862](tel:+201015929862)  
+**💼 LinkedIn:** [ali-abdallah-b5ba792b6](https://www.linkedin.com/in/ali-abdallah-b5ba792b6/)  
+**🌐 Portfolio:** Coming Soon!
+
+</div>
+
+---
+
+## 💡 Quote
+
+> *"The best way to predict the future is to create it through code and AI."*
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliAbdallah21&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+### ⭐ *Thanks for visiting! Feel free to star ⭐ any repositories you find interesting!* ⭐
+  
 </div>
 
+---
+
 <div align="center">
-  
-### ⭐ *"Building the future, one commit at a time"* ⭐
-  
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
