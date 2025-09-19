@@ -157,7 +157,24 @@ I'm a **Computer Science undergraduate** specializing in **AI/ML** at Misr Inter
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  
+<!-- Primary Trophy Display -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=2&column=4">
+</picture>
+
+<!-- Alternative Trophy Display (Backup) -->
+<details>
+<summary>🏆 Alternative Trophy View</summary>
+<br>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AliAbdallah21&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+
+</details>
+
 </div>
 
 ---
