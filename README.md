@@ -151,18 +151,6 @@ I'm a **Computer Science undergraduate** specializing in **AI/ML** at Misr Inter
     />
   </picture>
   
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      width="49%" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=default&hide_border=true" 
-      alt="GitHub Streak"
-    />
-  </picture>
-  
 </div>
 
 <br/>
@@ -208,8 +196,6 @@ I'm a **Computer Science undergraduate** specializing in **AI/ML** at Misr Inter
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AliAbdallah21&theme=radical)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=radical&langs_count=10)
 
