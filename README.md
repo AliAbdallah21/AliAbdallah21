@@ -223,15 +223,6 @@ class AliAbdallah:
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Intelligent RAG Systems with ChromaDB](https://your-blog-link.com)
-- [Fine-tuning Large Language Models: A Practical Guide](https://your-blog-link.com)
-- [Vector Databases in Production: Lessons Learned](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
