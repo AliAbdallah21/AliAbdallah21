@@ -139,18 +139,83 @@ I'm a **Computer Science undergraduate** specializing in **AI/ML** at Misr Inter
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" 
+      alt="GitHub Stats"
+    />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="49%" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=AliAbdallah21&theme=default&hide_border=true" 
+      alt="GitHub Streak"
+    />
+  </picture>
   
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAbdallah21&theme=tokyonight" />
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=tokyonight&hide_border=true&langs_count=12"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      width="60%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=default&hide_border=true&langs_count=12" 
+      alt="Top Languages"
+    />
+  </picture>
+  
 </div>
+
+<br/>
+
+<div align="center">
+  
+  <picture>
+    <source 
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAbdallah21&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAbdallah21&theme=default" 
+      alt="Profile Summary"
+    />
+  </picture>
+  
+</div>
+
+<!-- Alternative GitHub Stats (Backup) -->
+<details>
+<summary>📈 Alternative GitHub Analytics View</summary>
+<br/>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AliAbdallah21&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AliAbdallah21&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AliAbdallah21&layout=compact&theme=radical&langs_count=10)
+
+</div>
+
+</details>
 
 ---
 
@@ -223,7 +288,6 @@ class AliAbdallah:
 
 ---
 
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -241,7 +305,7 @@ I'm always interested in collaborating on innovative AI/ML projects and contribu
 
 ## 💡 Quote
 
-> *"The best way to predict the future is to create it through code and AI."*
+> *"No one knows your capabilites but Yourself."*
 
 ---
 
