@@ -283,7 +283,6 @@ I'm always interested in collaborating on innovative AI/ML projects and contribu
 **📧 Email:** [aliabdalla2110@gmail.com](mailto:aliabdalla2110@gmail.com)  
 **📱 Phone:** [+201015929862](tel:+201015929862)  
 **💼 LinkedIn:** [ali-abdallah-b5ba792b6](https://www.linkedin.com/in/ali-abdallah-b5ba792b6/)  
-**🌐 Portfolio:** Coming Soon!
 
 </div>
 
